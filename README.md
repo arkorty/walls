@@ -10,15 +10,16 @@ Feel free to explore and use the wallpapers if you find them interesting. Howeve
 
 ## Contents
 
-The wallpapers are organized into different categories and resolutions for easy navigation. The current categories include:
+The wallpapers are organized into different categories for easy navigation. The current categories include:
 
-- Nature
 - Abstract
-- Minimalistic
-- Space
+- Architecture
 - Artistic
-
-Each category contains subfolders with respective resolutions (e.g., 1920x1080, 2K, etc.).
+- Gruvbox
+- Minimalistic
+- Nature
+- Space
+- Technology
 
 ## How to Use
 
